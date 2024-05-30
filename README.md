@@ -1,4 +1,4 @@
-# Vladissta 🧬
+# Vlad Stanin 🧬
 
 🧬 Doing bioinformtics<br>🔬 Studying Fusarium, flax, chickpea and cancer<br>👨‍🎓 Bachelor's degree in biophysics<br>📚 Pursuing a master's degree<br>🤖 Assisting on ML course<br>⚙️ Would like to develop my own tools and pipelines<br>🎧 Really into EDM<br>🗣️ I like networking
 
