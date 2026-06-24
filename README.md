@@ -1,6 +1,6 @@
 # Vlad Stanin 🧬
 
-🧬 Doing bioinformatics<br>🔬 Studying *Fusarium oxysporum* and flax genomics<br>👨‍🎓 Bachelor's degree in biophysics<br>📚 Pursuing a master's degree in bioinformatics<br>🔵 Volunteering in Bioinformatics Institute<br>👨🏼‍🏫 Teaching bioinformatics and biostatistics at university<br>⚙️ Would like to develop my own tools and pipelines<br>🎧 Really into creating music<br>🗣️ I like networking!
+🧬 Doing science<br>🔬 Studying *Fusarium oxysporum* and flax genomics<br>👨‍🎓 Bachelor's and Master's degree in biophysics and bioinformatics<br>📚 Pursuing a PhD in bioinformatics<br>🔵 Helping in Bioinformatics Institute<br>👨🏼‍🏫 Teaching bioinformatics and biostatistics at university<br>⚙️ Would like to develop my own tools and pipelines<br>🎧 Really into creating music<br>🗣️ I like networking!
 
 
 ### 🌐 Socials:
